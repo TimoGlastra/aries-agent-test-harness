@@ -28,7 +28,7 @@ info:
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
   x-logo:
     # url: https://raw.githubusercontent.com/hyperledger/aries-agent-test-harness/master/docs/assets/aries-logo.png
-    url: https://raw.githubusercontent.com/TimoGlastra/aries-agent-test-harness/master/docs/assets/aries-logo.png
+    url: https://raw.githubusercontent.com/TimoGlastra/aries-agent-test-harness/hosted-api/docs/assets/aries-logo.png
     altText: Hyperledger Aries logo
   
 tags:
